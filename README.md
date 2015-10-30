@@ -11,4 +11,10 @@ couldn't find anyone with a SCART breakout so here one is. Literally a single
 SCART female connector with each pin exposed on a row of 21 (ok, 12+9, blame
 Eagle CAD!) 0.1" spaced pins suitable for breadboard.
 
+Here's a bare PCB as fabricated by [OSH Park](https://oshpark.com) and a
+populated board with a SCART connector purchased from [RS](http://rswww.com)
+or [eBay](http://www.ebay.co.uk):
+
+![Board](https://github.com/bodgit/scart-breakout/raw/master/breakout.jpg "Bare PCB and populated board")
+
 See https://en.wikipedia.org/wiki/SCART for the pinouts.
