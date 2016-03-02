@@ -15,7 +15,7 @@ suitable for breadboard. The latest version of the board now has the pinouts
 as documented at [Wikipedia](https://en.wikipedia.org/wiki/SCART) printed on
 the top layer so you don't have to remember what all 21 pins do.
 
-Here's the first version of the board as a bare PCB as fabricated by
+Here's the latest version of the board as a bare PCB as fabricated by
 [OSH Park](https://oshpark.com) and a populated board with a SCART connector
 purchased from [RS](http://rswww.com) or [eBay](http://www.ebay.co.uk):
 
