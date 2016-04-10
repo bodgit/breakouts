@@ -19,4 +19,4 @@ Here's the latest version of the board as a bare PCB as fabricated by
 [OSH Park](https://oshpark.com) and a populated board with a SCART connector
 purchased from [RS](http://rswww.com) or [eBay](http://www.ebay.co.uk):
 
-![Board](https://github.com/bodgit/scart-breakout/raw/master/breakout.jpg "Bare PCB and populated board")
+![Board](https://github.com/bodgit/scart-breakout/raw/master/SCART/breakout.jpg "Bare PCB and populated board")
